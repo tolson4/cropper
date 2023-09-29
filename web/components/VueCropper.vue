@@ -6,8 +6,7 @@
       :style="cropperStyle"
       :stencil-component="Stencil"
       :stencil-props="{aspectRatio}"
-      :canvas="{maxWidth: 400, maxHeight: 400}"
-      @change="setImage" />
+      :canvas="{maxWidth: 400, maxHeight: 400}" />
   </div>
 </template>
 
