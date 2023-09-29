@@ -1,6 +1,3 @@
-/*!
- * Copyright (c) 2019-2023 Dogwood Logic, Inc. All rights reserved.
- */
 import * as bedrock from '@bedrock/core';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
